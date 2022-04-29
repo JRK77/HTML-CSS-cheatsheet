@@ -1,0 +1,37 @@
+body {
+    font-family: arial, sans-serif;
+    background-color: #f0ffff;
+}
+
+.first {
+    color: blue;
+}
+
+.second {
+    color: lime;
+}
+
+.third {
+    color: red;
+}
+
+h1 {
+    margin: 25px auto;
+    width: 300px;
+}
+
+h2 {
+    color: indigo;
+    margin: 25px auto;
+    width: 300px;
+}
+
+table, th, td, thead {
+    border: 1px solid gray;
+    margin: 25px auto;
+    width: 900px;
+}
+
+[scope] {
+    background-color: pink;
+}
